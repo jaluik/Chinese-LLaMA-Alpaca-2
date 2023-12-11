@@ -8,3 +8,6 @@ kaleido
 cohere
 openai
 tiktoken
+fastapi
+python-multipart
+uvicorn
